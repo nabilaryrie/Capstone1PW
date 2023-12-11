@@ -1,4 +1,4 @@
-The Hospital Database Application, part of my Capstone Project at Purwadhika Data Science Program, simplifies data management for a fictional hospital. Key features include:
+The Hospital Database Application, part of my Capstone Project at Purwadhika Data Science Program, simplifies data management for a fictional hospital. The program fully uses python, with an English language interface. Key features include:
 
 1. Display Current Data: View the existing patient database in an organized tabulated format.
 2. Create New Data: Add new patient entries with unique registration numbers, age, diagnosis, and hospital status.
